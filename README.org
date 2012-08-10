@@ -1,4 +1,4 @@
 
 Cloudshift is now known as Flux and can be found at 
 
-<a src="http://github.com/async_cl/flux">http://github.com/async_cl/flux</a>
+http://github.com/async_cl/flux
