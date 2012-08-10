@@ -1,7 +1,0 @@
-
--cp ../../
--cp ../../../hx-node
--cp ../
--D nodejs
--js test.js
--main TestFs
